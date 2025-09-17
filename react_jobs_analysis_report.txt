@@ -1,0 +1,67 @@
+============================================================
+REMOTE REACT JOBS ANALYSIS REPORT
+============================================================
+Total Jobs Analyzed: 72
+
+SALARY ANALYSIS
+--------------------
+Jobs with salary info: 52
+Average salary: $116,954
+Median salary: $105,000
+Salary range: $800 - $640,000
+
+Top 5 Highest Paying Jobs:
+1. Fullstack REACT Developer at ionhealth - $520,000
+2. React Developer at Addison Group - $384,800
+3. Frontend Engineer at Front - $215,000
+4. Senior Software Engineer Frontend at Sift Science Inc - $195,000
+5. Staff Software Engineer Frontend at TwelveLabs - $180,000
+
+SKILLS ANALYSIS
+--------------------
+Total skills mentioned: 218
+Unique skills: 76
+
+Top 15 Most Required Skills:
+ 1. React                -  62 jobs (86.1%)
+ 2. Frontend Development -  16 jobs (22.2%)
+ 3. React Native         -  10 jobs (13.9%)
+ 4. Full Stack           -   7 jobs (9.7%)
+ 5. Typescript           -   6 jobs (8.3%)
+ 6. Senior Level         -   6 jobs (8.3%)
+ 7. Javascript           -   5 jobs (6.9%)
+ 8. Java                 -   5 jobs (6.9%)
+ 9. Next.Js              -   5 jobs (6.9%)
+10. 2 Years Experience   -   5 jobs (6.9%)
+11. Python               -   4 jobs (5.6%)
+12. Angular              -   4 jobs (5.6%)
+13. Full Stack Development -   3 jobs (4.2%)
+14. Vue                  -   3 jobs (4.2%)
+15. Mobile Development   -   3 jobs (4.2%)
+
+JOB DISTRIBUTION
+--------------------
+By Job Type:
+  Full-time: 60 (83.3%)
+  Contract: 9 (12.5%)
+  Part-time: 2 (2.8%)
+  Other: 1 (1.4%)
+
+By Source:
+  Wellfound: 25 (34.7%)
+  ZipRecruiter: 20 (27.8%)
+  LinkedIn: 14 (19.4%)
+  Indeed: 10 (13.9%)
+  WeWorkRemotely: 3 (4.2%)
+
+Companies with Most Job Postings:
+ 1. Tapcart: 3 jobs
+ 2. DataAnnotation: 2 jobs
+ 3. Hostwinds: 2 jobs
+ 4. MathGPT: 2 jobs
+ 5. Ava Labs: 2 jobs
+ 6. Evolve8 Studio: 2 jobs
+ 7. Steinn Labs: 2 jobs
+ 8. Eitacies-Inc: 2 jobs
+ 9. Jobgether: 2 jobs
+10. Backpack: 2 jobs
